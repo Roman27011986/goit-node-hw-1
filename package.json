@@ -1,0 +1,27 @@
+{
+  "name": "goit-node-hw-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roman27011986/goit-node-hw-1.git"
+  },
+  "author": "Roman <didorsn@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roman27011986/goit-node-hw-1/issues"
+  },
+  "homepage": "https://github.com/Roman27011986/goit-node-hw-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
